@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lorl27
 - 👀 I’m interested in ... drawing, singing and karate
-- 🌱 I’m currently learning ... JS, CSS
+- 🌱 I’m currently learning ... JS, Python and others
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
