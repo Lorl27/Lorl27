@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn new languages and expand my borders.
 - 🌱 I’m currently learning Javascript, Python, C and others
 - 💞️ I’m looking to collaborate on various projects in which to enhance my skills
-- 📫 How to reach me: via email -> grassiantonella747@yahoo.es
+- 📫 How to reach me: via email 
 
 <!---
 Lorl27/Lorl27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
