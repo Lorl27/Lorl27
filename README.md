@@ -19,9 +19,6 @@
 
 🚀 Always eager to learn new things and collaborate on exciting projects!  
 💞️ I’m looking to collaborate on various projects in which to enhance my skills
-
----
-📫 How to reach me: via email 
 ---
 ### ✨ TOP LENGUAJES:
 
