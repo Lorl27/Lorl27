@@ -10,15 +10,13 @@
 
 ## ENG
 
-# 👋 Hi there! I'm Lorl
-
 💻 Aspiring software developer with a passion for **Python, C, Ruby, and JavaScript**.  
 🌱 Currently learning **3D design, animation, and deepening my Linux skills**.  
 📚 I love logic, mathematics, and tackling complex programming challenges.  
 🎮 Interested in robotics, web development, and game design.  
-
 🚀 Always eager to learn new things and collaborate on exciting projects!  
 💞️ I’m looking to collaborate on various projects in which to enhance my skills
+
 ---
 ### ✨ TOP LENGUAJES:
 
