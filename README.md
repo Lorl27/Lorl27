@@ -22,7 +22,7 @@
 ---
 ### ✨ TOP LENGUAJES:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorl27&langs_count=20&layout=compact&size_weight=0&count_weight=1 )](https://github.com/Lorl27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorl27&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5 )](https://github.com/Lorl27/github-readme-stats)
 
 <!--Badge made by: [anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)-->
 
